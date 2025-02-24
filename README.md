@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Foong Ming, a Product Manager focused on developing 0-1 B2B SaaS solutions across various sectors, including Deep Packet Inspection (DPI), MarketingTech, and ClimateTech. 
+I'm Foong Ming, a AI Product Manager who focused on developing 0-1 B2B SaaS solutions across various sectors, including Deep Packet Inspection (DPI), MarketingTech, and ClimateTech. 
 
-Talk to me about decarbonisation at scale! 
+Currently, I pursuing my Masters degree in Computing at the National University of Singapore (NUS) to deepen my understanding of AI and practice those skills on various projects. 
+
+Talk to me about AI Product Management! 
 
 
 <!--
