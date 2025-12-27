@@ -11,8 +11,8 @@ My current work sits at the boundary of research and product: how to make LLM sy
 
 ### Selected projects
 **Web apps**
-- [Hit the Jackpot! (IT5007)](https://github.com/foongming/IT5007Project) — Real-time map view of HDB listings with historical transaction trends
-- LightningCAT — Map-first ActiveSG-style web app with AI recommendations
+- [Hit the Jackpot! (IT5007 - A)](https://github.com/foongming/IT5007Project) — Real-time map view of HDB listings with historical transaction trends
+- LightningCAT (CS5224 - A-) — Map-first ActiveSG-style web app with AI recommendations
 
 **AI / LLM**
 - [Endomondo Dataset Exploration (IT5100F - A+)](https://foongming.github.io/it5100f/IT5100F.html) — EDA, PCA, and exercise prediction using only 60s of data
