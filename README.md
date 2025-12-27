@@ -6,9 +6,7 @@ My current work sits at the boundary of research and product: how to make LLM sy
 
 ### What I’m focused on
 - LLM product development: problem framing, strategy, metrics, and iteration loops
-- RAG systems: retrieval quality, grounding, and end-to-end evaluation
-- Fine-tuning & adaptation: SFT, LoRA/PEFT, prompt and data-centric improvement
-- Language variation & low-resource/colloquial NLP (especially Singaporean English)
+- Fine-tuning & adaptation: RAG, SFT, LoRA/PEFT, prompt and data-centric improvement
 - Human-centered evaluation and explainability
 
 ### Selected projects
@@ -24,4 +22,4 @@ My current work sits at the boundary of research and product: how to make LLM sy
 - MCAT-How? (Ongoing) — RAG bot that personalizes MCAT study plans to user constraints and background
 
 ### Now
-I’m preparing for PM interviews and looking for roles where I can build and scale LLM-enabled products end-to-end (discovery → delivery → measurement).
+I’m looking for roles where I can build and scale LLM-enabled products end-to-end (discovery → delivery → measurement).
