@@ -14,12 +14,18 @@ Now, I’m digging deeper into how these models work under the hood — from fin
 - Translating between research and product
 
 ### Projects
-- News Bias Classification (CS5242): Comparing transformer and non-transformer models in classifying ideological bias in news 
 
-- BERT, Llama and friends tackle SQuADv1.0 (CS4248): Augmenting BERT and Llama to raise EM and F1
+WebApps:
+- [Hit the Jackpot! (IT5007)](https://github.com/foongming/IT5007Project): Real time map based view of HDBs available for sale and the area's historical transaction price trends
   
 - LightningCAT: WebApp build that is ActiveSG, but on a map and with AI recommendations 
 
+AI/LLM-Based:
+
+- [News Bias Classification (CS5242)](https://github.com/foongming/CS5242Project): Comparing transformer and non-transformer models in classifying ideological bias in news 
+
+- [BERT, Llama and friends tackle SQuADv1.0 (CS4248)](https://github.com/foongming/CS4248_Project): Augmenting BERT and Llama to raise EM and F1
+  
 - Emotional Support Chatbot (CP5105): Fine-tuning a GPT-based model to study how Singaporean English affects user outcomes in emotionally supportive interactions
 	
 - MCAT-How? (Ongoing Personal Project): RAG bot that tailors suggestions for studying plans based on user's specific background and constraints when preparing for the MCAT 
