@@ -13,12 +13,14 @@ Now, I’m digging deeper into how these models work under the hood — from fin
 
 - Translating between research and product
 
-### Recent Projects
-- News Bias Classification: Comparing transformer and non-transformer models in classifying ideological bias in news (Completed)
+### Completed Projects
+- News Bias Classification (CS5242): Comparing transformer and non-transformer models in classifying ideological bias in news 
+
+- BERT, Llama and friends tackle SQuADv1.0 (CS4248): Augmenting BERT and Llama to raise EM and F1
+
+- Emotional Support Chatbot (CP5105): Fine-tuning a GPT-based model to study how Singaporean English affects user outcomes in emotionally supportive interactions
 	
-- Emotional Support Chatbot: Fine-tuning a GPT-based model to study how Singaporean English affects user outcomes in emotionally supportive interactions (Ongoing)
-	
-- Hansard Q&A Bot: Building a local QA tool over Singapore’s parliamentary debates using vector search (Ideation/spike phase)
+- MCAT-How? (Ongoing Personal Project): RAG bot that tailors suggestions for studying plans based on user's specific background and constraints when preparing for the MCAT 
 
 
 <!--
