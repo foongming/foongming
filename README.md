@@ -15,10 +15,10 @@ My current work sits at the boundary of research and product: how to make LLM sy
 - LightningCAT — Map-first ActiveSG-style web app with AI recommendations
 
 **AI / LLM**
-- [Endomondo Dataset Exploration (IT5100F)](https://foongming.github.io/it5100f/IT5100F.html) — EDA, PCA, and exercise prediction using only 60s of data
-- [News Bias Classification (CS5242)](https://github.com/foongming/CS5242Project) — Transformer vs non-transformer approaches for ideological bias classification
-- [BERT, Llama and friends tackle SQuADv1.0 (CS4248)](https://github.com/foongming/CS4248_Project) — Improving EM/F1 via augmentation strategies
-- Emotional Support Chatbot (CP5105) — Studying how Singaporean English affects outcomes in supportive interactions
+- [Endomondo Dataset Exploration (IT5100F - A+)](https://foongming.github.io/it5100f/IT5100F.html) — EDA, PCA, and exercise prediction using only 60s of data
+- [News Bias Classification (CS5242 - A-)](https://github.com/foongming/CS5242Project) — Transformer vs non-transformer approaches for ideological bias classification
+- [BERT, Llama and friends tackle SQuADv1.0 (CS4248 - A-)](https://github.com/foongming/CS4248_Project) — Improving EM/F1 via augmentation strategies
+- Emotional Support Chatbot (CP5105 - A+) — Studying how Singaporean English affects outcomes in supportive interactions
 - MCAT-How? (Ongoing) — RAG bot that personalizes MCAT study plans to user constraints and background
 
 ### Now
