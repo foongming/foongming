@@ -22,6 +22,8 @@ WebApps:
 
 AI/LLM-Based:
 
+- [Endomondo Dataset Exploration (IT5100F)](https://foongming.github.io/it5100f/IT5100F.html): EDA, PCA and predicting the correct exercise with only 60s of data 
+
 - [News Bias Classification (CS5242)](https://github.com/foongming/CS5242Project): Comparing transformer and non-transformer models in classifying ideological bias in news 
 
 - [BERT, Llama and friends tackle SQuADv1.0 (CS4248)](https://github.com/foongming/CS4248_Project): Augmenting BERT and Llama to raise EM and F1
